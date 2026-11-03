@@ -38,4 +38,4 @@ A WebSocket-based editor prototype with room-based collaboration, code-change br
 
 ---
 
-*I value clear engineering, useful software, and honest documentation of what a project does—and what it does not do.*
+
