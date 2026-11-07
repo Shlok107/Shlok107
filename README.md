@@ -20,29 +20,35 @@
 
 ## What I'm building
 
-### [01 / Codebase RAG](https://github.com/Shlok107/AI-Powered-Codebase-RAG)
-
-A codebase intelligence platform for repository indexing, code-grounded Q&A, hybrid retrieval, and static security analysis.
-
-**Stack:** Python · FastAPI · PostgreSQL · pgvector · SQLAlchemy · React · TypeScript · Docker
-
-[![View repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=white)](https://github.com/Shlok107/AI-Powered-Codebase-RAG)
-
-### [02 / Real-Time Collaborative Code Editor](https://github.com/Shlok107/collaborative-code-editor)
-
-A browser-based collaborative editor with shared rooms, live code broadcasting, and WebSocket communication.
-
-**Stack:** Python · FastAPI · WebSockets · React · Monaco Editor
-
-[![View repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=white)](https://github.com/Shlok107/collaborative-code-editor)
-
-### [03 / AI Infrastructure Security Auditor](https://github.com/Shlok107/ai-infrastructure-security-auditor)
-
-A configuration security analyzer that examines Docker, Kubernetes, Docker Compose, and Terraform files to identify selected infrastructure misconfigurations using deterministic rules.
-
-**Stack:** Python · Pydantic · PyYAML · pytest · Infrastructure Security
-
-[![View repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=white)](https://github.com/Shlok107/ai-infrastructure-security-auditor)
+<table>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/Shlok107/AI-Powered-Codebase-RAG">Codebase RAG</a></h3>
+      <p>Repository intelligence with code-aware retrieval, AI-powered Q&amp;A, and static security analysis.</p>
+      <sub>Python · FastAPI · PostgreSQL · RAG</sub>
+      <br/><br/>
+      <a href="https://github.com/Shlok107/AI-Powered-Codebase-RAG"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=white" alt="View repository" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/Shlok107/collaborative-code-editor">Real-Time Collaborative Code Editor</a></h3>
+      <p>A shared coding environment with real-time updates, collaborative rooms, and WebSockets.</p>
+      <sub>React · FastAPI · WebSockets · Monaco Editor</sub>
+      <br/><br/>
+      <a href="https://github.com/Shlok107/collaborative-code-editor"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=white" alt="View repository" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/Shlok107/ai-infrastructure-security-auditor">AI Infrastructure Security Auditor</a></h3>
+      <p>A rule-based security analyzer for Docker, Kubernetes, and Terraform configurations.</p>
+      <sub>Python · Pydantic · Security</sub>
+      <br/><br/>
+      <a href="https://github.com/Shlok107/ai-infrastructure-security-auditor"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=white" alt="View repository" /></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
