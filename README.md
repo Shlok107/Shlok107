@@ -22,19 +22,19 @@
 
 <p>
   <a href="https://github.com/Shlok107/AI-Powered-Codebase-RAG">
-    <img src="https://raw.githubusercontent.com/Shlok107/Shlok107/main/assets/codebase-rag.svg?v=2" width="100%" alt="Codebase RAG — Repository intelligence with code-aware retrieval, AI-powered Q&A, and static security analysis. Python, FastAPI, PostgreSQL, RAG. Repository button." />
+    <img src="https://raw.githubusercontent.com/Shlok107/Shlok107/main/assets/codebase-rag-rounded.svg" width="100%" alt="Codebase RAG — Repository intelligence with code-aware retrieval, AI-powered Q&A, and static security analysis. Python, FastAPI, PostgreSQL, RAG. Repository button." />
   </a>
 </p>
 
 <p>
   <a href="https://github.com/Shlok107/collaborative-code-editor">
-    <img src="https://raw.githubusercontent.com/Shlok107/Shlok107/main/assets/collaborative-code-editor.svg?v=2" width="100%" alt="Real-Time Collaborative Code Editor — A shared coding environment with real-time updates, collaborative rooms, and WebSockets. React, FastAPI, WebSockets, Monaco Editor. Repository button." />
+    <img src="https://raw.githubusercontent.com/Shlok107/Shlok107/main/assets/collaborative-code-editor-rounded.svg" width="100%" alt="Real-Time Collaborative Code Editor — A shared coding environment with real-time updates, collaborative rooms, and WebSockets. React, FastAPI, WebSockets, Monaco Editor. Repository button." />
   </a>
 </p>
 
 <p>
   <a href="https://github.com/Shlok107/ai-infrastructure-security-auditor">
-    <img src="https://raw.githubusercontent.com/Shlok107/Shlok107/main/assets/ai-infrastructure-security-auditor.svg?v=2" width="100%" alt="AI Infrastructure Security Auditor — A rule-based security analyzer for Docker, Kubernetes, and Terraform configurations. Python, Pydantic, Security. Repository button." />
+    <img src="https://raw.githubusercontent.com/Shlok107/Shlok107/main/assets/ai-infrastructure-security-auditor-rounded.svg" width="100%" alt="AI Infrastructure Security Auditor — A rule-based security analyzer for Docker, Kubernetes, and Terraform configurations. Python, Pydantic, Security. Repository button." />
   </a>
 </p>
 
