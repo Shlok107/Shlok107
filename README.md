@@ -20,50 +20,23 @@
 
 ## What I'm building
 
-<table width="1050">
-  <tr>
-    <td width="1050">
-      <h3><a href="https://github.com/Shlok107/AI-Powered-Codebase-RAG">Codebase RAG</a></h3>
-      <p>Repository intelligence with code-aware retrieval, AI-powered Q&amp;A, and static security analysis.</p>
-      <sub>Python · FastAPI · PostgreSQL · RAG</sub>
-      <p align="right">
-        <a href="https://github.com/Shlok107/AI-Powered-Codebase-RAG">
-          <img src="https://img.shields.io/badge/Repository-0D1117?style=flat&logo=github&logoColor=C9D1D9" alt="Repository" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://github.com/Shlok107/AI-Powered-Codebase-RAG">
+    <img src="https://raw.githubusercontent.com/Shlok107/Shlok107/main/assets/codebase-rag.svg" width="100%" alt="Codebase RAG — Repository intelligence with code-aware retrieval, AI-powered Q&A, and static security analysis. Python, FastAPI, PostgreSQL, RAG. Repository button." />
+  </a>
+</p>
 
-<table width="1050">
-  <tr>
-    <td width="1050">
-      <h3><a href="https://github.com/Shlok107/collaborative-code-editor">Real-Time Collaborative Code Editor</a></h3>
-      <p>A shared coding environment with real-time updates, collaborative rooms, and WebSockets.</p>
-      <sub>React · FastAPI · WebSockets · Monaco Editor</sub>
-      <p align="right">
-        <a href="https://github.com/Shlok107/collaborative-code-editor">
-          <img src="https://img.shields.io/badge/Repository-0D1117?style=flat&logo=github&logoColor=C9D1D9" alt="Repository" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://github.com/Shlok107/collaborative-code-editor">
+    <img src="https://raw.githubusercontent.com/Shlok107/Shlok107/main/assets/collaborative-code-editor.svg" width="100%" alt="Real-Time Collaborative Code Editor — A shared coding environment with real-time updates, collaborative rooms, and WebSockets. React, FastAPI, WebSockets, Monaco Editor. Repository button." />
+  </a>
+</p>
 
-<table width="1050">
-  <tr>
-    <td width="1050">
-      <h3><a href="https://github.com/Shlok107/ai-infrastructure-security-auditor">AI Infrastructure Security Auditor</a></h3>
-      <p>A rule-based security analyzer for Docker, Kubernetes, and Terraform configurations.</p>
-      <sub>Python · Pydantic · Security</sub>
-      <p align="right">
-        <a href="https://github.com/Shlok107/ai-infrastructure-security-auditor">
-          <img src="https://img.shields.io/badge/Repository-0D1117?style=flat&logo=github&logoColor=C9D1D9" alt="Repository" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://github.com/Shlok107/ai-infrastructure-security-auditor">
+    <img src="https://raw.githubusercontent.com/Shlok107/Shlok107/main/assets/ai-infrastructure-security-auditor.svg" width="100%" alt="AI Infrastructure Security Auditor — A rule-based security analyzer for Docker, Kubernetes, and Terraform configurations. Python, Pydantic, Security. Repository button." />
+  </a>
+</p>
 
 ---
 
