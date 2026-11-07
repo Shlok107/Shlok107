@@ -26,29 +26,35 @@
       <h3><a href="https://github.com/Shlok107/AI-Powered-Codebase-RAG">Codebase RAG</a></h3>
       <p>Repository intelligence with code-aware retrieval, AI-powered Q&amp;A, and static security analysis.</p>
       <sub>Python · FastAPI · PostgreSQL · RAG</sub>
-      <p align="right"><a href="https://github.com/Shlok107/AI-Powered-Codebase-RAG">View repository →</a></p>
+      <p align="right">
+        <a href="https://github.com/Shlok107/AI-Powered-Codebase-RAG">
+          <img src="https://img.shields.io/badge/Repository-0D1117?style=flat&logo=github&logoColor=C9D1D9" alt="Repository" />
+        </a>
+      </p>
     </td>
   </tr>
-</table>
-
-<table width="100%">
   <tr>
     <td>
       <h3><a href="https://github.com/Shlok107/collaborative-code-editor">Real-Time Collaborative Code Editor</a></h3>
       <p>A shared coding environment with real-time updates, collaborative rooms, and WebSockets.</p>
       <sub>React · FastAPI · WebSockets · Monaco Editor</sub>
-      <p align="right"><a href="https://github.com/Shlok107/collaborative-code-editor">View repository →</a></p>
+      <p align="right">
+        <a href="https://github.com/Shlok107/collaborative-code-editor">
+          <img src="https://img.shields.io/badge/Repository-0D1117?style=flat&logo=github&logoColor=C9D1D9" alt="Repository" />
+        </a>
+      </p>
     </td>
   </tr>
-</table>
-
-<table width="100%">
   <tr>
     <td>
       <h3><a href="https://github.com/Shlok107/ai-infrastructure-security-auditor">AI Infrastructure Security Auditor</a></h3>
       <p>A rule-based security analyzer for Docker, Kubernetes, and Terraform configurations.</p>
       <sub>Python · Pydantic · Security</sub>
-      <p align="right"><a href="https://github.com/Shlok107/ai-infrastructure-security-auditor">View repository →</a></p>
+      <p align="right">
+        <a href="https://github.com/Shlok107/ai-infrastructure-security-auditor">
+          <img src="https://img.shields.io/badge/Repository-0D1117?style=flat&logo=github&logoColor=C9D1D9" alt="Repository" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
