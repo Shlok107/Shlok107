@@ -20,7 +20,7 @@
 
 ## What I'm building
 
-<table width="100%">
+<table width="100%" style="width:100%; min-width:100%; table-layout:fixed;">
   <tr>
     <td width="100%">
       <h3><a href="https://github.com/Shlok107/AI-Powered-Codebase-RAG">Codebase RAG</a></h3>
@@ -35,7 +35,7 @@
   </tr>
 </table>
 
-<table width="100%">
+<table width="100%" style="width:100%; min-width:100%; table-layout:fixed;">
   <tr>
     <td width="100%">
       <h3><a href="https://github.com/Shlok107/collaborative-code-editor">Real-Time Collaborative Code Editor</a></h3>
@@ -50,7 +50,7 @@
   </tr>
 </table>
 
-<table width="100%">
+<table width="100%" style="width:100%; min-width:100%; table-layout:fixed;">
   <tr>
     <td width="100%">
       <h3><a href="https://github.com/Shlok107/ai-infrastructure-security-auditor">AI Infrastructure Security Auditor</a></h3>
