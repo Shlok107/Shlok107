@@ -20,32 +20,35 @@
 
 ## What I'm building
 
-<table>
+<table width="100%">
   <tr>
-    <td>
+    <td width="78%">
       <h3><a href="https://github.com/Shlok107/AI-Powered-Codebase-RAG">Codebase RAG</a></h3>
       <p>Repository intelligence with code-aware retrieval, AI-powered Q&amp;A, and static security analysis.</p>
       <sub>Python · FastAPI · PostgreSQL · RAG</sub>
-      <br/><br/>
-      <a href="https://github.com/Shlok107/AI-Powered-Codebase-RAG"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=white" alt="View repository" /></a>
+    </td>
+    <td width="22%" align="right" valign="middle">
+      <a href="https://github.com/Shlok107/AI-Powered-Codebase-RAG"><img src="https://img.shields.io/badge/REPOSITORY-181717?style=flat&logo=github&logoColor=white" alt="Repository" /></a>
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="78%">
       <h3><a href="https://github.com/Shlok107/collaborative-code-editor">Real-Time Collaborative Code Editor</a></h3>
       <p>A shared coding environment with real-time updates, collaborative rooms, and WebSockets.</p>
       <sub>React · FastAPI · WebSockets · Monaco Editor</sub>
-      <br/><br/>
-      <a href="https://github.com/Shlok107/collaborative-code-editor"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=white" alt="View repository" /></a>
+    </td>
+    <td width="22%" align="right" valign="middle">
+      <a href="https://github.com/Shlok107/collaborative-code-editor"><img src="https://img.shields.io/badge/REPOSITORY-181717?style=flat&logo=github&logoColor=white" alt="Repository" /></a>
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="78%">
       <h3><a href="https://github.com/Shlok107/ai-infrastructure-security-auditor">AI Infrastructure Security Auditor</a></h3>
       <p>A rule-based security analyzer for Docker, Kubernetes, and Terraform configurations.</p>
       <sub>Python · Pydantic · Security</sub>
-      <br/><br/>
-      <a href="https://github.com/Shlok107/ai-infrastructure-security-auditor"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=flat&logo=github&logoColor=white" alt="View repository" /></a>
+    </td>
+    <td width="22%" align="right" valign="middle">
+      <a href="https://github.com/Shlok107/ai-infrastructure-security-auditor"><img src="https://img.shields.io/badge/REPOSITORY-181717?style=flat&logo=github&logoColor=white" alt="Repository" /></a>
     </td>
   </tr>
 </table>
