@@ -48,18 +48,4 @@ A configuration security analyzer that examines Docker, Kubernetes, Docker Compo
 
 ## Tech Stack
 
-**Languages**
-
-Python · Java · C · C++ · JavaScript · TypeScript
-
-**Backend & Databases**
-
-FastAPI · REST APIs · WebSockets · PostgreSQL · SQLite · SQLAlchemy
-
-**AI & Machine Learning**
-
-RAG · LLM Integration · Embeddings · Vector Search · Semantic Search · Hybrid Retrieval · Sentence Transformers · pgvector
-
-**Frontend & Infrastructure**
-
-React · HTML · CSS · Docker · Git · Linux · AWS
+Python · FastAPI · PostgreSQL · React · Docker · RAG · LLMs · Embeddings · WebSockets
