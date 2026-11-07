@@ -22,7 +22,7 @@
 
 <table width="100%">
   <tr>
-    <td>
+    <td width="100%">
       <h3><a href="https://github.com/Shlok107/AI-Powered-Codebase-RAG">Codebase RAG</a></h3>
       <p>Repository intelligence with code-aware retrieval, AI-powered Q&amp;A, and static security analysis.</p>
       <sub>Python · FastAPI · PostgreSQL · RAG</sub>
@@ -33,8 +33,11 @@
       </p>
     </td>
   </tr>
+</table>
+
+<table width="100%">
   <tr>
-    <td>
+    <td width="100%">
       <h3><a href="https://github.com/Shlok107/collaborative-code-editor">Real-Time Collaborative Code Editor</a></h3>
       <p>A shared coding environment with real-time updates, collaborative rooms, and WebSockets.</p>
       <sub>React · FastAPI · WebSockets · Monaco Editor</sub>
@@ -45,8 +48,11 @@
       </p>
     </td>
   </tr>
+</table>
+
+<table width="100%">
   <tr>
-    <td>
+    <td width="100%">
       <h3><a href="https://github.com/Shlok107/ai-infrastructure-security-auditor">AI Infrastructure Security Auditor</a></h3>
       <p>A rule-based security analyzer for Docker, Kubernetes, and Terraform configurations.</p>
       <sub>Python · Pydantic · Security</sub>
